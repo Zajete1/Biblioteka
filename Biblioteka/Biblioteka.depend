@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646217513 source:d:\github\uczelnia\biblioteka\biblioteka\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<conio.h>
+	<cstdlib>
+	<limits>
+
